@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextCounterJava</string>
+    <string name="enter_text">Enter text</string>
+    <string name="count">Count</string>
+    <string name="count_words">Count Words</string>
+    <string name="count_chars">Count Characters</string>
+    <string name="result_label">Result: </string>
+    <string name="empty_input_warning">Please enter some text!</string>
+</resources>
